@@ -1,0 +1,17 @@
+.white{
+    background-color: grey;
+}
+
+.black{
+    background-color: black;
+}
+
+.chess_board_space{
+    flex-direction: row;
+    height: 100px;
+    width: 100px;
+}
+
+.chess_board_row{
+    display: flex;
+}
